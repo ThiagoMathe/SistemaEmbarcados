@@ -4,7 +4,7 @@ Este repositório foi desenvolvido como parte da disciplina de **Sistemas Embarc
 
 ## Como Utilizar
 
-Cada componente possui seu próprio diretório com exemplos de código, instruções detalhadas para configuração e uso. Basta navegar até o diretório do componente desejado e seguir as instruções fornecidas.
+Cada componente possui seu próprio diretório com exemplos de código. Basta navegar até o diretório do componente desejado.
 
 ## Contribuições
 
